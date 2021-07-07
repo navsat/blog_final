@@ -1,0 +1,127 @@
+contact iframe
+{
+width:100%;    
+}
+.contact_1 h3
+{
+   display: center;
+}
+
+.contact_1 a 
+{
+    text-shadow: inline;
+}
+
+input
+{
+   background: lightgrey
+}
+
+.travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv hr
+{
+   width: 230%;
+}
+
+.travel_mainDiv h5  ,  .travel_mainDiv p
+{
+   margin-left: 20px;
+}
+
+.movie_head
+{
+    font -size: 20 px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head
+{
+    float:right;
+}
+
+.movie_text span
+{
+    color: #ff7700;
+}
+
+.enviornment_li
+{
+  margin-top: 13px;
+}
+
+.enviornment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.enviornment_li img
+{
+    border-radius: 25px;
+}
+
+.enviornment_li p
+{
+    margin-top:10px;
+}
+
+.header_entrepeneur
+{
+    line-height: 2;
+}
+
+.book
+{
+    cursor: pointer;
+}
+
+.book hr
+{
+    margin-bottom: 10px;
+}
+
+.modal-content
+{
+    margin-top: 10px;
+}
+
+.img_modal
+{
+    display:inline-block;
+}
+
+.p_modal
+{
+    margin-top: 10px;
+}
+
+.modal-body
+{
+    text-align: center
+}
+
+.book
+{
+    cursor:pointer;
+}
+
+.iframe
+{
+    display:center;
+}
